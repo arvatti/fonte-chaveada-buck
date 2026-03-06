@@ -20,3 +20,5 @@ SG3525
 IR2110
 
 IRF840
+
+Os arquivos em anexo podem ser baixado o esquematico utilizado e os calculos para o programa Octave.
