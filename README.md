@@ -1,5 +1,5 @@
 # fonte-chaveada-buck
-Desenvolvimento de uma fonte chaveada topologia Buck controlada por PWM (SG3525)
+Desenvolvimento de fonte chaveada topologia Buck controlada por PWM (SG3525)
 
 Tensão de entrada (VS): 120Vdc (Vs_min) a 325Vdc (Vs_max) (o que corresponde a 85Vrms e 230Vrms da rede elétrica convencional)
 
